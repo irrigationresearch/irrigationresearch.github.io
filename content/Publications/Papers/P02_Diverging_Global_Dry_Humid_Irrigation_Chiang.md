@@ -8,7 +8,7 @@ title2: " "
 ## Authors:
 ***Felicia Chiang***, Benjamin I. Cook, and Sonali McDermid
 
-[Read the full paper here](https://doi.org/10.1063/5.0165180)
+[Read the full paper here](https://doi.org/10.1175/EI-D-23-0006.1)
 ## Abstract:
 The moderating influence of irrigation on dry heat extremes is well established, but the effect of irrigation on humid heat is more uncertain. Here, we study the impact of modern irrigation on both dry and humid heat-wave occurrences during the boreal summer using the NASA GISS Earth System Model (ModelE) with and without present-day irrigation. We show that the presence of modern irrigation reduces the total number of dry heat waves in most land areas, especially in arid and temperate regions.
 <!--more-->
