@@ -6,7 +6,7 @@ description: "Meet the Team"
 # Project Leads
 
 <!-- {{< Profile_Creator
-  imgpath="/images/team/first_last.jpg"
+  imgpath="https://e1.nmcdn.io/aspenglob/wp-content/uploads/imported-files/2022/07/McDermidS.jpg/v:1-width:300-height:300-fit:cover/McDermidS.jpg?signature=8d22bbc6"
   name="first last"
   title=" "
   role=" "
