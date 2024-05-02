@@ -21,7 +21,7 @@ description: "Meet the Team"
       imgpath="https://e1.nmcdn.io/aspenglob/wp-content/uploads/imported-files/2022/07/McDermidS.jpg/v:1-width:300-height:300-fit:cover/McDermidS.jpg?signature=8d22bbc6"
       name="Sonali McDermid "
       title="Coordinating PI; Associate professor"
-      role=" Loon Observations and Gravity Wave Momentum Flux Estimates "
+      role=" climate scientist "
       website="https://www.sonalimcdermid.com/"
       institute="Associate Professor, New York University"
       workdesc=" Environmental Studies" >}}
@@ -29,17 +29,17 @@ description: "Meet the Team"
 <!-- name="Jonas Jaegermeyr " -->
     {{< Profile_Creator
       imgpath="https://e1.nmcdn.io/aspenglob/wp-content/uploads/imported-files/2022/07/20140823-_MG_7657_portrait_web.jpg/v:1-width:300-height:300-fit:cover/20140823-_MG_7657_portrait_web.jpg?signature=7a047d2e"
-      name="Claudia Stephan "
+      name="Jonas Jaegermeyr "
       title="Head of Task 2"
       role="High-resolution Model Simulations of Gravity Waves"
-      website="https://www.iap-kborn.de/home/"
-      institute="Prof., Leibniz Institute of Atmospheric Physics"
-      workdesc="High-resolution model simulations with the ICON model to study the generation of gravity waves by orographic and convective sources, and their three-dimensional resolved propagation through the atmosphere." >}}
+      website="https://www.pik-potsdam.de/members/jonasjae"
+      institute="Senior Scientist, Columbia University"
+      workdesc="climate change scientist and crop modeler." >}}
 
 <!-- name="Yadu Pokhrel" -->
     {{< Profile_Creator
       imgpath="https://e1.nmcdn.io/aspenglob/wp-content/uploads/imported-files/2022/10/yadupokhrel.jpg/v:1-width:300-height:300-fit:cover/yadupokhrel.jpg?signature=f79c0fb6"
-      name="Ulrich Achatz"
+      name="Yadu Pokhrel"
       title="Head of Task 3"
       role="Ray Tracing-based Parameterization of Gravity Waves"
       website="https://www.goethe-university-frankfurt.de/46279780/Achatz"
@@ -49,7 +49,7 @@ description: "Meet the Team"
 <!-- name="Wim Thiery" -->
     {{< Profile_Creator
       imgpath="https://e1.nmcdn.io/aspenglob/wp-content/uploads/imported-files/2022/10/WimThiery.jpeg/v:1-width:300-height:300-fit:cover/WimThiery.jpeg?signature=ca32f853"
-      name="Pedram Hassanzadeh"
+      name="Wim Thiery"
       title="Co-Head of Task 4"
       role=" Machine Learning-based Parameterization of Gravity Waves "
       website="http://pedram.rice.edu/director/"
@@ -59,7 +59,7 @@ description: "Meet the Team"
 <!-- name="Patricia Marie Parker" -->
     <!-- {{< Profile_Creator
       imgpath="https://e1.nmcdn.io/aspenglob/wp-content/uploads/imported-files/2022/10/Patricia-M.-Parker.jpg/v:1-width:300-height:300-fit:cover/Patricia-M.-Parker.jpg?signature=fbf1e2b9"
-      name="Alberto Arribas"
+      name="Patricia Marie Parker"
       title="Co-Head of Task 4"
       role=" Machine Learning-based Parameterization of Gravity Waves "
       website="https://www.informaticslab.co.uk/"
@@ -69,7 +69,7 @@ description: "Meet the Team"
 <!-- name="James C. Arnott" -->
     {{< Profile_Creator
       imgpath="https://e1.nmcdn.io/aspenglob/wp-content/uploads/imported-files/2022/08/James-hi-res.jpeg/v:1-width:300-height:300-fit:cover/James-hi-res.jpeg?signature=fb0aaa09"
-      name="Ed Gerber"
+      name="James C. Arnott"
       title="Co-Head of Task 5"
       role=" Gravity  Wave  Impacts  in  Climate  Projections "
       website="https://cims.nyu.edu/people/profiles/GERBER_Edwin.html"
@@ -80,7 +80,7 @@ description: "Meet the Team"
 
     {{< Profile_Creator
       imgpath=""
-      name="Adam Scaife"
+      name="Lucca Brocca"
       title="Co-Head of Task 5"
       role=" Gravity  Wave  Impacts  in  Climate  Projections "
       website="https://www.metoffice.gov.uk/research/people/adam-scaife"
@@ -90,7 +90,7 @@ description: "Meet the Team"
     <!-- name="Jennifer Burney" -->
     {{< Profile_Creator
       imgpath="https://e1.nmcdn.io/aspenglob/wp-content/uploads/imported-files/2022/07/faculty_burney.jpg/v:1-width:300-height:300-fit:cover/faculty_burney.jpg?signature=1216b8e2"
-      name="Joan Alexander"
+      name="Jennifer Burney"
       title=" Task 2"
       role=" High-resolution Model Simulations of Gravity Waves "
       website="https://www.cora.nwra.com/"
