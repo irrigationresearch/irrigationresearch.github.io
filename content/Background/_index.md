@@ -1,7 +1,7 @@
 ---
 title: "Background"
 date: 2021-03-01T12:00:00-05:00
-description: "Project Goals (Amar)"
+description: "Project Goals"
 featured_image: "/images/button_i.jpg"
 ---
 # Table of Contents
