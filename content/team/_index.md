@@ -1,6 +1,6 @@
 ---
 title: "The Team"
-featured_image: '/images/gravity_waves_big.jpg'
+featured_image: 'https://www.agci.org/wp-content/uploads/2023/11/Irrigation1.png'
 description: "Meet the Team"
 ---
 # Project Leads
