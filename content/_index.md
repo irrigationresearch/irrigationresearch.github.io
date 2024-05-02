@@ -1,5 +1,5 @@
 ---
-title: "DataWave: Collaborative Gravity Wave Research"
+title: "IES: Irrigation in the Earth System"
 featured_image: '/images/button_image.jpg'
 description: "An international consortium working on improving our understanding and representation of gravity waves"
 ---
