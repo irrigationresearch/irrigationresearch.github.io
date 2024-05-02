@@ -18,7 +18,7 @@ description: "Meet the Team"
 
 <!-- name="Aditi Sheshadri " -->
     {{< Profile_Creator
-      imgpath="/images/team/Aditi_Sheshadri.jpg"
+      imgpath="https://e1.nmcdn.io/aspenglob/wp-content/uploads/imported-files/2022/07/McDermidS.jpg/v:1-width:300-height:300-fit:cover/McDermidS.jpg?signature=8d22bbc6"
       name="Aditi Sheshadri "
       title="Coordinating PI; Head of Task 1"
       role=" Loon Observations and Gravity Wave Momentum Flux Estimates "
