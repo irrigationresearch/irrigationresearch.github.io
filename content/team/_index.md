@@ -16,19 +16,19 @@ description: "Meet the Team"
 
 {{< ProfileRegion >}}
 
-<!-- name="Aditi Sheshadri " -->
+<!-- name="Sonali McDermid " -->
+    {{< Profile_Creator
+      imgpath="https://e1.nmcdn.io/aspenglob/wp-content/uploads/imported-files/2022/07/McDermidS.jpg/v:1-width:300-height:300-fit:cover/McDermidS.jpg?signature=8d22bbc6"
+      name="Sonali McDermid "
+      title="Coordinating PI; Associate professor"
+      role=" Loon Observations and Gravity Wave Momentum Flux Estimates "
+      website="https://www.sonalimcdermid.com/"
+      institute="Associate Professor, New York University"
+      workdesc=" Environmental Studies" >}}
+
+<!-- name="Jonas Jaegermeyr " -->
     {{< Profile_Creator
       imgpath="https://e1.nmcdn.io/aspenglob/wp-content/uploads/imported-files/2022/07/20140823-_MG_7657_portrait_web.jpg/v:1-width:300-height:300-fit:cover/20140823-_MG_7657_portrait_web.jpg?signature=7a047d2e"
-      name="Aditi Sheshadri "
-      title="Coordinating PI; Head of Task 1"
-      role=" Loon Observations and Gravity Wave Momentum Flux Estimates "
-      website="https://profiles.stanford.edu/aditi-sheshadri"
-      institute="Assistant Prof., Stanford University"
-      workdesc=" Public data portal for observation data and momentum flux and uncertainty quantification" >}}
-
-<!-- name="Claudia Stephan " -->
-    {{< Profile_Creator
-      imgpath="/images/team/Claudia_Stephan.jpg"
       name="Claudia Stephan "
       title="Head of Task 2"
       role="High-resolution Model Simulations of Gravity Waves"
@@ -36,9 +36,9 @@ description: "Meet the Team"
       institute="Prof., Leibniz Institute of Atmospheric Physics"
       workdesc="High-resolution model simulations with the ICON model to study the generation of gravity waves by orographic and convective sources, and their three-dimensional resolved propagation through the atmosphere." >}}
 
-<!-- name="Ulrich Achatz" -->
+<!-- name="Yadu Pokhrel" -->
     {{< Profile_Creator
-      imgpath="/images/team/Ulrich_Achatz.JPG"
+      imgpath="https://e1.nmcdn.io/aspenglob/wp-content/uploads/imported-files/2022/10/yadupokhrel.jpg/v:1-width:300-height:300-fit:cover/yadupokhrel.jpg?signature=f79c0fb6"
       name="Ulrich Achatz"
       title="Head of Task 3"
       role="Ray Tracing-based Parameterization of Gravity Waves"
@@ -46,9 +46,9 @@ description: "Meet the Team"
       institute="Prof., Johann Wolfgang Goethe-Universität Frankfurt"
       workdesc="Scale interactions in atmospheric dynamics, e.g. the prognostic modelling of subgrid-scale of gravity waves and their impact on the flow resolved by atmospheric models." >}}
 
-<!-- name="Pedram Hassanzadeh" -->
+<!-- name="Wim Thiery" -->
     {{< Profile_Creator
-      imgpath="/images/team/Pedram_Hassanzadeh.jpg"
+      imgpath="https://e1.nmcdn.io/aspenglob/wp-content/uploads/imported-files/2022/10/WimThiery.jpeg/v:1-width:300-height:300-fit:cover/WimThiery.jpeg?signature=ca32f853"
       name="Pedram Hassanzadeh"
       title="Co-Head of Task 4"
       role=" Machine Learning-based Parameterization of Gravity Waves "
@@ -56,9 +56,9 @@ description: "Meet the Team"
       institute="Assistant Prof., University of Chicago"
       workdesc="Turbulent flows using numerical, mathematical, statistical, and machine learning methods, guided by observational and experimental data." >}}
 
-<!-- name="Alberto Arribas" -->
+<!-- name="Patricia Marie Parker" -->
     <!-- {{< Profile_Creator
-      imgpath="/images/team/Alberto_Arribas.jpg"
+      imgpath="https://e1.nmcdn.io/aspenglob/wp-content/uploads/imported-files/2022/10/Patricia-M.-Parker.jpg/v:1-width:300-height:300-fit:cover/Patricia-M.-Parker.jpg?signature=fbf1e2b9"
       name="Alberto Arribas"
       title="Co-Head of Task 4"
       role=" Machine Learning-based Parameterization of Gravity Waves "
@@ -66,9 +66,9 @@ description: "Meet the Team"
       institute="Head of Informatics Lab and Met Office Research Fellow"
       workdesc=" XXX " >}} -->
 
-<!-- name="Ed Gerber" -->
+<!-- name="James C. Arnott" -->
     {{< Profile_Creator
-      imgpath="/images/team/Ed_Gerber.jpg"
+      imgpath="https://e1.nmcdn.io/aspenglob/wp-content/uploads/imported-files/2022/08/James-hi-res.jpeg/v:1-width:300-height:300-fit:cover/James-hi-res.jpeg?signature=fb0aaa09"
       name="Ed Gerber"
       title="Co-Head of Task 5"
       role=" Gravity  Wave  Impacts  in  Climate  Projections "
@@ -76,10 +76,10 @@ description: "Meet the Team"
       institute="Prof., Courant Institute of Mathematical Sciences, NYU"
       workdesc="Atmospheric dynamics and idealized modeling." >}}
 
-<!-- name="Adam Scaife" -->
+<!-- name="Lucca Brocca" -->
 
     {{< Profile_Creator
-      imgpath="/images/team/Adam_Scaife.jpg"
+      imgpath=""
       name="Adam Scaife"
       title="Co-Head of Task 5"
       role=" Gravity  Wave  Impacts  in  Climate  Projections "
@@ -87,9 +87,9 @@ description: "Meet the Team"
       institute="Head of Long Range Prediction, Met Office Hadley Center"
       workdesc="Climate variability and prediction, stratosphere-troposphere interaction, Atmospheric waves and wave-mean flow interaction. " >}}
 
-    <!-- name="Joan Alexander" -->
+    <!-- name="Jennifer Burney" -->
     {{< Profile_Creator
-      imgpath="/images/team/Joan_Alexander.jpg"
+      imgpath="https://e1.nmcdn.io/aspenglob/wp-content/uploads/imported-files/2022/07/faculty_burney.jpg/v:1-width:300-height:300-fit:cover/faculty_burney.jpg?signature=1216b8e2"
       name="Joan Alexander"
       title=" Task 2"
       role=" High-resolution Model Simulations of Gravity Waves "
