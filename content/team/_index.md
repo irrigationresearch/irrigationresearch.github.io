@@ -115,7 +115,7 @@ description: "Meet the Team"
 
 <!--  Amar Deep Tiwari  -->
   {{< Profile_Creator  
-    imgpath="http://amardeeptiwari.com/profile-photo.jpg"
+    imgpath="https://twitter.com/AmarDeepTTiwari/photo"
     name="Amar Deep Tiwari"
     title="Professor"
     role="Collaboration with François Lott"
@@ -130,7 +130,7 @@ description: "Meet the Team"
 {{< ProfileRegion >}}
 
 {{< Profile_Creator  
-  imgpath="http://amardeeptiwari.com/profile-photo.jpg"
+  imgpath="https://twitter.com/AmarDeepTTiwari/photo"
   name="Amar Deep Tiwari"
   title="Project Admin + Research Assistant"
   role=" "
