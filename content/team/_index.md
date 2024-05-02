@@ -79,7 +79,7 @@ description: "Meet the Team"
 <!-- name="Lucca Brocca" -->
 
     {{< Profile_Creator
-      imgpath=""
+      imgpath="https://e1.nmcdn.io/aspenglob/wp-content/uploads/imported-files/2023/04/LuccaBrocca.jpg/v:1-width:300-height:300-fit:cover/LuccaBrocca.jpg?signature=cdfc6a5b"
       name="Lucca Brocca"
       title="Co-Head of Task 5"
       role=" Gravity  Wave  Impacts  in  Climate  Projections "
@@ -115,7 +115,7 @@ description: "Meet the Team"
 
 <!--  Amar Deep Tiwari  -->
   {{< Profile_Creator  
-    imgpath="/images/team/Riwal_Plougonven.jpg"
+    imgpath="http://amardeeptiwari.com/profile-photo.jpg"
     name="Amar Deep Tiwari"
     title="Professor"
     role="Collaboration with François Lott"
@@ -130,13 +130,13 @@ description: "Meet the Team"
 {{< ProfileRegion >}}
 
 {{< Profile_Creator  
-  imgpath="/images/team/Niku_Darafshi.jpg"
-  name="Niku Darafshi"
+  imgpath="http://amardeeptiwari.com/profile-photo.jpg"
+  name="Amar Deep Tiwari"
   title="Project Admin + Research Assistant"
   role=" "
-  website="https://eddy.stanford.edu/people"
-  institute=" Stanford Doerr School of Sustainability "
-  workdesc="Project administrator: organization and planning" >}}
+  website="http://amardeeptiwari.com/"
+  institute=" Michigan State University "
+  workdesc="Postdoc" >}}
 
 {{</ ProfileRegion >}}
 
