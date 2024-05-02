@@ -57,14 +57,14 @@ description: "Meet the Team"
       workdesc="Turbulent flows using numerical, mathematical, statistical, and machine learning methods, guided by observational and experimental data." >}}
 
 <!-- name="Patricia Marie Parker" -->
-    <!-- {{< Profile_Creator
+    {{< Profile_Creator
       imgpath="https://e1.nmcdn.io/aspenglob/wp-content/uploads/imported-files/2022/10/Patricia-M.-Parker.jpg/v:1-width:300-height:300-fit:cover/Patricia-M.-Parker.jpg?signature=fbf1e2b9"
       name="Patricia Marie Parker"
       title="Co-Head of Task 4"
       role=" Machine Learning-based Parameterization of Gravity Waves "
       website="https://www.informaticslab.co.uk/"
       institute="Head of Informatics Lab and Met Office Research Fellow"
-      workdesc=" XXX " >}} -->
+      workdesc=" XXX " >}}
 
 <!-- name="James C. Arnott" -->
     {{< Profile_Creator
