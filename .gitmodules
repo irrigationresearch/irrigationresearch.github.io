@@ -3,4 +3,4 @@
 	url = https://github.com/zerostaticthemes/hugo-serif-theme
 [submodule "themes/ananke"]
 	path = themes/ananke
-	url = https://github.com/budparr/gohugo-theme-ananke.git
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
