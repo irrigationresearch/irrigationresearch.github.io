@@ -12,9 +12,12 @@ This website is host to the community of researchers studying the role of irriga
 ## Main Objectives
 You can read more about how the tasks were split up on our [research page](https://irrigationresearch.github.io/background/) and learn about the leaders of each task on our [team page](https://irrigationresearch.github.io/team).
 
-#### 1: Observation Database
-The first objective is to make available a potentially transformational data source from Loon LLC with unprecedented, high-resolution observations of atmospheric conditions across thousands of balloon flights.
+#### 1: Main goals of the workshop
+* Build a cross-disciplinary irrigation research community;
+* Summarize the “state of the field”: what is known about spatiotemporal water use for irrigation and its interactions with other Earth system components?
+* Identify urgent irrigation research questions related to global environmental change and water sustainability; and 
+* Identify entry points for process-based modeling and ways to integrate evolving irrigation observations and other data and knowledge products.
 
-#### 2: Machine Learning
-The second objective is to use machine learning to develop one- and three- dimensional data-driven gravity wave parametrizations to more accurately and efficiently represent gravity wave momentum fluxes.
+#### 2: Modelling
+**Reducing model uncertainties**: In several sessions, the group grappled with the many dimensions of uncertainty in irrigation models and the limited availability of data that can represent real world decision-making in those models. Representing limited water supplies (especially groundwater), for instance, was repeatedly recognized as a process that needs more attention to reduce model uncertainty. Other uncertainties with wide ranges included irrigation trends and demand, the use efficiency of crop water under changing climate conditions and atmospheric CO2 trends,  biogeochemical impacts of irrigation (especially on soils), and how irrigation affects precipitation and heat extremes.  
 
