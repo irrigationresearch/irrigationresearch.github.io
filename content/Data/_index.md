@@ -6,7 +6,7 @@ description: "Data sources and links"
 # Datasets
 
 <!-- {{< Profile_Creator
-  imgpath="https://e1.nmcdn.io/aspenglob/wp-content/uploads/imported-files/2022/07/McDermidS.jpg/v:1-width:300-height:300-fit:cover/McDermidS.jpg?signature=8d22bbc6"
+  imgpath="https://docs.google.com/spreadsheets/d/1bJyzj-Ec3FW4xQ1dvBbIraTj4QYaveaYfjnO1n5PfEo/edit#gid=0"
   name="first last"
   title=" "
   role=" "
@@ -18,7 +18,7 @@ description: "Data sources and links"
 
 <!-- name="Sonali McDermid " -->
     {{< Profile_Creator
-      imgpath="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs43017-023-00438-5/MediaObjects/43017_2023_438_Fig1_HTML.png?as=webp"
+      imgpath="https://docs.google.com/spreadsheets/d/1bJyzj-Ec3FW4xQ1dvBbIraTj4QYaveaYfjnO1n5PfEo/edit#gid=0"
       name="Global irrigated areas "
       title="Irrigation in the Earth system"
       role=" Paper: https://www.nature.com/articles/s43017-023-00438-5 "
