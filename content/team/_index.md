@@ -42,8 +42,8 @@ description: "Meet the Team"
       name="Yadu Pokhrel"
       title="Head of Task 3"
       role="Ray Tracing-based Parameterization of Gravity Waves"
-      website="https://www.goethe-university-frankfurt.de/46279780/Achatz"
-      institute="Prof., Johann Wolfgang Goethe-Universität Frankfurt"
+      website="https://water.egr.msu.edu/"
+      institute="Associate Professor, Michigan State University"
       workdesc="Scale interactions in atmospheric dynamics, e.g. the prognostic modelling of subgrid-scale of gravity waves and their impact on the flow resolved by atmospheric models." >}}
 
 <!-- name="Wim Thiery" -->
