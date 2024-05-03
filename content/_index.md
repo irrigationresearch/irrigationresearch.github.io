@@ -1,7 +1,7 @@
 ---
 title: "IES: Irrigation in the Earth System"
 featured_image: '/images/button_image.jpg'
-description: "An international consortium working on improving our understanding and representation of gravity waves"
+description: "Priorities for Data, Modeling, and Cross-disciplinary Research"
 ---
 
 Irrigation is a critical component of land and water resource management, and facilitates nearly 40% of the world’s food supply. While irrigated areas occupy a relatively small global extent, the volume of water used for irrigation nevertheless accounts for the lion’s share of global freshwater withdrawals: ~70% of total withdrawals and 84-90% of consumptive use. Furthermore, irrigation may now also constitute a complex driver of environmental change, including groundwater depletion, enhanced soil salinity, and nutrient leaching in agricultural systems. Copiously applied irrigation water also impacts regional hydroclimates, heat extremes in both agricultural and urban areas, and biogeochemical cycling. Demand for irrigation water, both in agriculture and other sectors, is expected to increase into the 21st century. Such increases, particularly when coupled with climate change-induced water disruptions, tax existing irrigation water supplies and may drive some regions into water scarcity. It is therefore crucial to better understand irrigation impacts and interactions across natural and human systems to aid in improving projections of regional environmental/climate change and sustainable water resource management.
