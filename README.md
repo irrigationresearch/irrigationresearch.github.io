@@ -1,5 +1,5 @@
-# Website Repo for DataWave Project
-Put together by Amar Deep Tiwari.
+# Website
+Put together by Amar Deep Tiwari (tiwaria6@msu.edu).
 
 
 # Source: 
