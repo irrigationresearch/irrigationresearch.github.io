@@ -9,7 +9,7 @@ featured_image:: "/images/cover/Stanford_square.png"
 ---
 {{< rawhtml >}}
 <div>
-<img src="/Jobs/images/Stanford_square.png" alt="tesr" style="float:left;width:25%;height:25%;padding:0 25px 0 0;">
+<img src="https://media.licdn.com/dms/image/C560BAQHoB8-GE2lldw/company-logo_200_200/0/1630578200140/evo_eco_logo?e=2147483647&v=beta&t=AzILH4C6NBW34H2Qo1EBrX51r3f96t7vPxgg0vCl92o" alt="tesr" style="float:left;width:25%;height:25%;padding:0 25px 0 0;">
 <h2> PostDoc & faculty positions </h2>                                           
 <!-- ![logo](/images/cover/Goethe_square.png) -->
 <!-- <a href="/pdfs/PhD_Ulrich.pdf">PDF Here</a> -->
