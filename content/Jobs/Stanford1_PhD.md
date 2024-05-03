@@ -1,5 +1,5 @@
 ---
-title: "PostDoc & Professor Positions"
+title: "PostDoc & faculty positions"
 date: 2024-02-01
 featured: true
 draft: false
@@ -10,7 +10,7 @@ featured_image:: "/images/cover/Stanford_square.png"
 {{< rawhtml >}}
 <div>
 <img src="/Jobs/images/Stanford_square.png" alt="tesr" style="float:left;width:25%;height:25%;padding:0 25px 0 0;">
-<h2> Advisor: Aditi Sheshadri </h2>                                           
+<h2> PostDoc & faculty positions </h2>                                           
 <!-- ![logo](/images/cover/Goethe_square.png) -->
 <!-- <a href="/pdfs/PhD_Ulrich.pdf">PDF Here</a> -->
 
