@@ -1,10 +1,10 @@
 ---
-title: "PostDoc Position at Stanford University"
+title: "PostDoc & Professor Positions"
 date: 2024-02-01
 featured: true
 draft: false
 weight: 1
-location: "Palo Alto, California"
+location: "XXX"
 featured_image:: "/images/cover/Stanford_square.png"
 ---
 {{< rawhtml >}}
@@ -14,7 +14,8 @@ featured_image:: "/images/cover/Stanford_square.png"
 <!-- ![logo](/images/cover/Goethe_square.png) -->
 <!-- <a href="/pdfs/PhD_Ulrich.pdf">PDF Here</a> -->
 
-<p>There is an opening for a PostDoc to join the research group <i>Atmospheric Dynamics, Variability, and Change</i> at the <a href="https://eddy.stanford.edu/">Stanford Doerr School of Sustainability</a>. <p> Topics of research could include atmospheric gravity waves as they relate to the DataWave project, regional high-resolution modeling, ML for SGS parameterizations, Bayesian methods, etc. Interested scientists are encouraged to reach out to Aditi Sheshadri. <p>
+<p> See the opening at [link](https://docs.google.com/spreadsheets/d/1Fvh1BZANNKsn8oVqqN2V4mQtKjpivU7fGqygNTTRAj8/edit#gid=1864294017). 
+There is an opening for a PostDoc to join the research group <i>Atmospheric Dynamics, Variability, and Change</i> at the <a href="https://eddy.stanford.edu/">Stanford Doerr School of Sustainability</a>. <p> Topics of research could include atmospheric gravity waves as they relate to the DataWave project, regional high-resolution modeling, ML for SGS parameterizations, Bayesian methods, etc. Interested scientists are encouraged to reach out to Aditi Sheshadri. <p>
 Terms: <p>
 The initial appointment is expected to be for one year, with the possibility of renewal for subsequent years depending on performance.
 </p>
