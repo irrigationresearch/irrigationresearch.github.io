@@ -1,71 +1,30 @@
 ---
 title: "Data"
-date: 2021-03-01T12:00:00-05:00
-description: "DataWave Resources and Links"
-featured_image: "/images/button_i.jpg"
+featured_image: '/images/gravity_waves_big.jpg'
+description: "Data sources and links"
 ---
-{{< rawhtml >}}
-<div>
-<head>
-   <style type="text/css">
-    td, th {border: 1px solid black;} table { border-collapse: collapse; }
-   </style> 
-</head>
-<body>
- <table>
- <caption>High Resolution Model Inputs</caption>
-  <tr>
-     <th>Model</th>
-     <th>Top</th>
-     <th># Vertical Levels</th>
-     <th>Time Length</th>
-     <th>Vertical/ Horizontal Res.</th>
-     <th>Time Res.</th>
-     <th>Target GCM Spacing</th>
-     <th>Filter Method Notes</th>
-  </tr>
-  <tr>
-     <td>ICON</td>
-     <td>75 km</td>
-     <td>90</td>
-     <td>6 yrs</td>
-     <td>5 km (r2b9)</td>
-     <td>3 hrs</td>
-     <td>100 km</td>
-     <td>from Healpix grid, transform to spectral space and then follow same steps as ICON 2.5km simulation</td>
-  </tr>
-  <tr>
-     <td>ICON</td>
-     <td>75 km</td>
-     <td>90</td>
-     <td>1 week</td>
-     <td>2.5 km (r2b9)</td>
-     <td>3 hrs</td>
-     <td>100 km</td>
-     <td>Remap to Gaussian (n1024 via first order conservative remapping); In spectral space, taper to zero starting at 950km and completely zeroing out everything under ~550km period waves. </td>
-  </tr>
-  <tr>
-     <td>IFS</td>
-     <td>80 km (0.01 hPa)</td>
-     <td>137</td>
-     <td>4 months</td>
-     <td>1.4 km</td>
-     <td>3 hrs</td>
-     <td>300 km</td>
-     <td>Global Helmholtz decomposition with a fixed 2000 km spatial filter.</td>
-  </tr>
-  <tr>
-     <td>WRF</td>
-     <td>0.01 hPa</td>
-     <td></td>
-     <td>100 regional days</td>
-     <td>3km, 1km (dx) /(~400m dz</td>
-     <td>15 min</td>
-     <td>100 km</td>
-     <td>Similar to IFS data with Helmholtz decomposition, but using 700 km (selected case only for comparison with Gaussian filter) </td>
-  </tr>
- </table>
-</body>
+# Project Leads
+
+<!-- {{< Profile_Creator
+  imgpath="https://e1.nmcdn.io/aspenglob/wp-content/uploads/imported-files/2022/07/McDermidS.jpg/v:1-width:300-height:300-fit:cover/McDermidS.jpg?signature=8d22bbc6"
+  name="first last"
+  title=" "
+  role=" "
+  website=" "
+  institute=" "
+  workdesc=" " >}} -->
+
+{{< ProfileRegion >}}
+
+<!-- name="Sonali McDermid " -->
+    {{< Profile_Creator
+      imgpath="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs43017-023-00438-5/MediaObjects/43017_2023_438_Fig1_HTML.png?as=webp"
+      name="Global irrigated areas "
+      title="Irrigation in the Earth system"
+      role=" Paper: https://www.nature.com/articles/s43017-023-00438-5 "
+      website="https://www.nature.com/articles/s43017-023-00438-5#additional-information"
+      institute="Datasets"
+      workdesc=" Nature reviews" >}}
 
 
-{{< /rawhtml >}}
+{{</ ProfileRegion >}}
