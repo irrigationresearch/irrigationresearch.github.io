@@ -99,31 +99,6 @@ description: "Meet the Team"
 
 {{</ ProfileRegion >}}
 
-# PostDocs and Research Scientists
-
-{{< ProfileRegion >}}
-
-<!--  Yi Yao  -->
-{{< Profile_Creator  
-  imgpath="/images/team/Annelize_Van_Niekerk.jpg"
-  name="Yi Yao"
-  title=" Senior Scientist in Atmospheric Processes and Parametrizations "
-  role=" test "
-  website="https://www.metoffice.gov.uk/research/people/annelize-van-niekerk"
-  institute="MetOffice"
-  workdesc="Development and validation of orographic gravity wave drag parametrizations in models" >}}
-
-<!--  Amar Deep Tiwari  -->
-  {{< Profile_Creator  
-    imgpath="https://media.licdn.com/dms/image/D5603AQEgt_3QeCn3fA/profile-displayphoto-shrink_800_800/0/1701355431962?e=2147483647&v=beta&t=4cACfaBqNhgvlRlPf8VVamoyIPwlfyCRZo5vNKyBEiw"
-    name="Amar Deep Tiwari"
-    title="Professor"
-    role="Collaboration with François Lott"
-    website="http://www.lmd.ens.fr/plougon/"
-    institute="Ecole Polytechnique (LMD/IPSL)"
-    workdesc="Atmospheric dynamics, with a focus on observation and modeling of gravity waves and their impacts in the stratosphere." >}}
-
-{{</ ProfileRegion >}}
 
 # Additional Support
 
