@@ -1,10 +1,10 @@
 ---
 title: "Data"
+featured_image: '/images/gravity_waves_big.jpg'
 description: "Data sources and links"
 ---
+# Datasets
 
-# Google Sheet Preview
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVq-AcLm8E8I0O5a4YFu90YIj0H_jDeQgXCRWlPrA6C_vwAS4T_2i6ZteF5YYZZ0LE7G1Y1yWv23hx/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="400px"></iframe>
-
-[Open Full Google Sheet](https://docs.google.com/spreadsheets/d/1bJyzj-Ec3FW4xQ1dvBbIraTj4QYaveaYfjnO1n5PfEo/edit#gid=0)
+<br />
+<br />
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1LzxUNodZkK7vz1rFpUS7xN6gSGctIcWiICuOn7nPP6F_edDqUB0Hl3sGycMBLSrgobBkz4HNVt5g/pubhtml?widget=true&amp;headers=false" width==500 height=660 ></iframe>
