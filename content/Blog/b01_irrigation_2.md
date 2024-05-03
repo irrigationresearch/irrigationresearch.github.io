@@ -6,12 +6,12 @@ featured: true
 draft: false
 weight: 20
 location: "Aspen, Colorado"
-featured_image:: 'https://www.agci.org/wp-content/uploads/2023/11/23s2-irrigation-workshop-group-shot-1024x447.png'
+featured_image:: 'https://www.agci.org/wp-content/uploads/2023/11/Irrigation1.png'
 
 ---
 {{< rawhtml >}}
 <div>
-<img src="https://www.agci.org/wp-content/uploads/2023/11/23s2-irrigation-workshop-group-shot-1024x447.png" alt="image" style=";width:100%;height:100%">
+<img src="https://www.agci.org/wp-content/uploads/2023/11/Irrigation1.png" alt="image" style=";width:100%;height:100%">
 
 <p> Between Jun. 4th - Jun. 9th, twelve members of the IES group came together for the 2023 Aspen conference.
 </p>
