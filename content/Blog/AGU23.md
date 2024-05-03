@@ -1,7 +1,7 @@
 ---
 title: "Workshop on Irrigation in the Earth System "
 date: Jun 4th, 2023 - Jun 9th, 2023
-author: "Niku Darafshi"
+author: "Amar Deep Tiwari"
 featured: true
 draft: false
 weight: 20
@@ -20,7 +20,7 @@ featured_image:: 'https://www.agci.org/wp-content/uploads/2023/11/23s2-irrigatio
 <!--more-->
 {{< rawhtml >}}
 <div>
-The workshop can be summarized as
+<!--The workshop can be summarized as-->
 </p>
  <h4> Work: </h4> 
 </p>
