@@ -1,62 +1,31 @@
 ---
-title: "DataWave at AGU 2023"
-date: 2023-12-18
+title: "Workshop on Irrigation in the Earth System "
+date: Jun 4th, 2023 - Jun 9th, 2023
 author: "Niku Darafshi"
 featured: true
 draft: false
 weight: 20
-location: "San Francisco"
-featured_image:: '/images/wave.jpeg'
+location: "Aspen, Colorado"
+featured_image:: 'https://www.agci.org/wp-content/uploads/2023/11/23s2-irrigation-workshop-group-shot-1024x447.png'
 
 ---
 {{< rawhtml >}}
 <div>
-<img src="/Blog/images/Datawave_AGU.png" alt="image" style=";width:100%;height:100%">
+<img src="https://www.agci.org/wp-content/uploads/2023/11/23s2-irrigation-workshop-group-shot-1024x447.png" alt="image" style=";width:100%;height:100%">
 
-<p> Between Dec. 11th - Dec. 15th, twelve members of the DataWave group came together for the 2023 AGU conference in San Francisco.
+<p> Between Jun. 4th - Jun. 9th, twelve members of the IES group came together for the 2023 Aspen conference.
 </p>
 </div>
 {{< /rawhtml >}}
 <!--more-->
 {{< rawhtml >}}
 <div>
-Throughout the week, affiliates of our group presented new research and chaired different sessions. Below is a list of DataWave presenters and their respective research titiles. Please feel free to reach out to a presenter if you are interested in talking more about their work.
+The workshop can be summarized as
 </p>
- <h4> AGU DataWave Presentations: </h4> 
+ <h4> Work: </h4> 
 </p>
-"Machine Learning Subgrid-Scale Parameterizations for Earth System Modeling," Session, Conveners: <b>Laura Mansfield</b> & <b>Minah Yang</b>.
-<p>
-"Extratropical Large-Scale Atmospheric Circulation Variability," Session, Conveners: <b>Aman Gupta</b>, <b>Pedram Hassanzadeh</b>, & <b>Aditi Sheshadri</b>.
-<p>
-"Influence of obstacle effect on convectively generated gravity wave drag in the lowermost stratosphere," Talk, <b>Martina Bramberger</b>.
-<p>
-"Can AI-based climate models learn rare, extreme weather events?," Talk, <b>Pedram Hassanzadeh</b>.
-<p>
-"Explainable Offline-Online Training of Neural Networks for Parameterization: A 1D Gravity Wave-QBO Testbed," Talk, <b>Hamid Pahlavan</b>.
-</p>
-"Balloon Borne Observation of Tropical Gravity Waves: Phase Speed and Vector Momentum Flux," Talk, <b>Milena Corcos</b>.
-<p>
-"Understanding instabilities of neural weather models: Towards seamless weather to climate prediction," Talk, <b>Ashesh Chattopadhyay</b>.
-<p>
-"A framework for stability and convergence analysis of deep neural solvers for multi-scale nonlinear PDEs," Talk, <b>Pedram Hassanzadeh</b>.
-<p>
-"Extracting Gravity Waves from a Multi-year Global High Resolution Simulation using Spectral Filters," Poster, <b>Minah Yang</b>.
-<p>
-"Inertia-Gravity Wave Energy Spectra and Propagation Directions Estimated from Loon Balloon Data," Poster, <b>Brian Green</b>.
-</p>
-"Uncertainty Quantification of a Machine Learning Gravity Wave Parameterization," Poster, <b>Laura Mansfield</b>.
-</p>
-"Learning Closed-form Equations for Subgrid-scale Closures from High-fidelity Data: Promises and Challenges," Poster, <b>Karan Jakhar</b>.
-<p>
-"Utilizing Bayesian History Matching for the calibration of a gravity wave parameterization," Poster, <b>Robert King</b>.
-</p>
-"Non-local Machine Learning-based Gravity Wave Parameterization Trained on a Kilometer-scale Global Climate Model," Poster, <b>Aman Gupta</b>.
-</p>
-"Using Loon to systematically observe horizontal gravity wave properties," Poster, <b>Isabella Dula</b>.
-</p>
-"Revisiting Stratospheric Eddy Diffusivity Using New Observational Capabilities," Poster, <b>Catherine Wilka</b>.
-</p>
-"Importance of Internal Gravity Waves to Global Stratospheric Variability and Climatology as Revealed by ERA5," Poster, <b>Aman Gupta</b>.
+"Irrigation is essential for land and water resource management, crucial for growing 40% of the world's food and responsible for up to 90% of global freshwater consumption. However, its role is often underestimated in Earth system models that examine climate interactions, crop growth, and water cycles, impacting our understanding and strategies for managing environmental and climate change. In June 2023, AGCI hosted a workshop titled "Irrigation in the Earth System," bringing together experts from various disciplines to discuss and advance irrigation modeling and research. The workshop aimed to foster a cross-disciplinary research community, summarize current knowledge, address pressing questions in the field, and explore new modeling techniques and data integration. Participants discussed various uncertainties in irrigation models, such as water supply limits and crop water use efficiency under changing conditions, emphasizing the need for improved data and methods. A public panel, "Irrigation Re-Imagined," was held concurrently, discussing regenerative irrigation strategies to enhance resilience in agriculture. The workshop highlighted the importance of integrating social science approaches and leveraging high-resolution remote sensing data to improve model accuracy and utility. Discussions also covered the sociohydrological impacts of irrigation, including its effects on human health and climate justice. The event underscored the value of interdisciplinary collaboration and communication to innovate and enhance understanding of irrigation’s role in the Earth system. Moving forward, the workshop has inspired various research initiatives and proposals, aiming to bridge knowledge gaps and foster sustainable practices.
+
 </p>
 
 {{< /rawhtml >}}
