@@ -15,8 +15,8 @@ featured_image: "/images/cover/Stanford_square.png"
 <!-- <a href="/pdfs/PhD_Ulrich.pdf">PDF Here</a> -->
 
 <p> See the <a href="https://www.agci.org/blog/irrigation-in-the-earth-system-priorities-for-data-modeling-and-cross-disciplinary-research">link</a> of of the workshop.
-<p>
-About: <p>
+</p>
+<p>About:</p>
 In June 2023, AGCI hosted “Irrigation in the Earth System: Priorities for Data, Modeling, and Cross-disciplinary Research.” Participants included experts across the irrigation modeling and observations/data scientific communities, spanning researchers and practitioners working in climate, agriculture, and hydrology.
 </p>
 </div>
