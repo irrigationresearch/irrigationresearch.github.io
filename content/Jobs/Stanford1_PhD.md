@@ -10,24 +10,15 @@ featured_image:: "/images/cover/Stanford_square.png"
 {{< rawhtml >}}
 <div>
 <img src="https://www.agci.org/wp-content/uploads/2023/11/23s2-irrigation-workshop-group-shot-1536x671.png" alt="tesr" style="float:left;width:25%;height:25%;padding:0 25px 0 0;">
-<h2> PostDoc & faculty positions </h2>                                           
+<h2> Workshop </h2>                                           
 <!-- ![logo](/images/cover/Goethe_square.png) -->
 <!-- <a href="/pdfs/PhD_Ulrich.pdf">PDF Here</a> -->
 
-<p> See the opening at [link](https://docs.google.com/spreadsheets/d/1Fvh1BZANNKsn8oVqqN2V4mQtKjpivU7fGqygNTTRAj8/edit#gid=1864294017). 
+<p> See the <a href="https://www.agci.org/blog/irrigation-in-the-earth-system-priorities-for-data-modeling-and-cross-disciplinary-research">link</a> of of the workshop.
 <p>
 Terms: <p>
-The initial appointment is expected to be for one year, with the possibility of renewal for subsequent years depending on performance.
+In June 2023, AGCI hosted “Irrigation in the Earth System: Priorities for Data, Modeling, and Cross-disciplinary Research.” Participants included experts across the irrigation modeling and observations/data scientific communities, spanning researchers and practitioners working in climate, agriculture, and hydrology.
 </p>
 </div>
 {{< /rawhtml >}}
-<!--more-->
 
-
-### Qualifications:
-Candidates should have a Ph.D. in atmospheric science, applied mathematics, or a related field at the time of appointment. The successful candidate will have demonstrated the ability to carry out creative, innovative, independent research, and to publish in the peer-reviewed literature.
-
-### Document requested:
-To learn more, applicants should send an email with the subject line "postdoc application" to [Aditi Sheshadri]({{< ref "/Team/" >}}) with:
-1. a detailed CV
-2. a list of references
