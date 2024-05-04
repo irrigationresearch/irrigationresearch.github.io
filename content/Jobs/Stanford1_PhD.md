@@ -1,5 +1,3 @@
-Correct this 
-
 ---
 title: "Announcements"
 date: 2024-02-01
