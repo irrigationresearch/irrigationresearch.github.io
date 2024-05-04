@@ -5,7 +5,7 @@ featured: true
 draft: false
 weight: 1
 location: "XXX"
-featured_image:: "/images/cover/Stanford_square.png"
+featured_image: "/images/cover/Stanford_square.png"
 ---
 {{< rawhtml >}}
 <div>
