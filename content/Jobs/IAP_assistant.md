@@ -5,7 +5,7 @@ featured: true
 draft: false
 weight: 1
 location: "Globe"
-featured_image:: 'IES_jobs02.png'
+featured_image:: '/images/cover/Stanford_square.png'
 ---
 {{< rawhtml >}}
 <div>
