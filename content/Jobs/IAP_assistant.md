@@ -10,9 +10,8 @@ featured_image:: '/images/gravity_waves_big.jpg'
 {{< rawhtml >}}
 <div>
 <img src="/Jobs/images/IAP_square.png" alt="logo" style="float:left;width:25%;height:25%;padding:0 25px 0 0;">
-<h2> Advisor: Claudia Stephan </h2>    
-<a href="https://docs.google.com/spreadsheets/d/1Fvh1BZANNKsn8oVqqN2V4mQtKjpivU7fGqygNTTRAj8/edit#gid=1864294017">Link Here</a>   
-<!--  -->
+<!--<h2> Advisor: Claudia Stephan </h2>-->    
+<a href="https://docs.google.com/spreadsheets/d/1Fvh1BZANNKsn8oVqqN2V4mQtKjpivU7fGqygNTTRAj8/edit#gid=1864294017">Link Here</a>
 
 <p> Here are recent jobs related to EcoEvo.
 
