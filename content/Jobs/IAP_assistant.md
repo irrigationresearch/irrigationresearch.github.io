@@ -15,7 +15,7 @@ featured_image:: '/images/gravity_waves_big.jpg'
 
 <p> Here are recent jobs related to EcoEvo.
 
-  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSf-BdXCl24ABDOm2-9aK5zFzrTuUPkIwJ_5T8uDeInEJ_e9vV_qJ6mSIsZw2Ryq6A1n3ODocLzhxiF/pubhtml?gid=1864294017&single=true&widget=true&headers=false" width="50%" height="200"></iframe>
+  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSf-BdXCl24ABDOm2-9aK5zFzrTuUPkIwJ_5T8uDeInEJ_e9vV_qJ6mSIsZw2Ryq6A1n3ODocLzhxiF/pubhtml?gid=1864294017&single=true&widget=true&headers=false" width="100%" height="200"></iframe>
 
 </p>
 </div>
