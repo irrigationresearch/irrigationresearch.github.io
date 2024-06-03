@@ -11,6 +11,6 @@ The site was originally compiled locally on my computer (with Hugo), and was upl
 
 ## Website editing
 
-We are using this website from (https://datawaveproject.github.io/). To edit files on the website, you can clone the repository to your local drive, or edit the files using the online editing interface. Email nikud@stanford.edu for editing permissions. 
+We are using this website from (https://datawaveproject.github.io/). To edit files on the website, you can clone the repository to your local drive, or edit the files using the online editing interface. Email tiwaria6@msu.edu for editing permissions. 
 
 
