@@ -56,8 +56,8 @@ googleAnalytics = "G-76NXT956MJ"
       weight = 5
 
   [[menu.main]]
-      name = "Resources"
-      url = "/resources/"
+      name = "Data"
+      url = "/data/"
       weight = 6
     
 
