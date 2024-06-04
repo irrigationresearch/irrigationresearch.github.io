@@ -40,10 +40,10 @@ googleAnalytics = "G-76NXT956MJ"
       url = "/jobs/"
       weight = 3
 
-  [[menu.main]]
-      name = "Background"
-      url = "/background/"
-      weight = 4
+#  [[menu.main]]
+#      name = "Background"
+#      url = "/background/"
+#      weight = 4
 
   [[menu.main]]
       name = "Publications"
