@@ -1,7 +1,7 @@
 ---
-title: "Data"
+title: "Resources"
 featured_image: "/images/gravity_waves_big.jpg"
-description: "Data sources and links"
+description: "Irrigation research resources and links"
 featured_image:: 'IES_data01.png'
 ---
 
