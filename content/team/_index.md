@@ -1,5 +1,5 @@
 ---
-title: "The Team"
+title: "Team"
 featured_image: '/images/gravity_waves_big.jpg'
 description: "Meet the Team"
 ---
