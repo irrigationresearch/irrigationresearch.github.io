@@ -36,8 +36,8 @@ googleAnalytics = "G-76NXT956MJ"
       weight = 2
 
   [[menu.main]]
-      name = "Jobs"
-      url = "/jobs/"
+      name = "Announcements" #previously jobs
+      url = "/announcements/"
       weight = 3
 
 #  [[menu.main]]
