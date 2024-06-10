@@ -98,32 +98,3 @@ description: "Meet the Team"
       workdesc="jburney@ucsd.edu" >}}
 
 {{</ ProfileRegion >}}
-
-
-#Additional Support
-
-#{{< ProfileRegion >}}
-
-#{{</ ProfileRegion >}}
-
-#<!-- UNPLACED -->
-
-
-  #<!-- {{< Profile_Creator  
-    imgpath="/images/team/.jpg"
-    name=" "
-    title=" XXX "
-    role=" XXX "
-    website=" XXX "
-    institute=" LMD/IPSL "
-    workdesc=" XXX " >}}
-
-
-  #{{< Profile_Creator  
-    imgpath="/images/team/.jpg"
-    name=" "
-    title=" XXX "
-    role=" XXX "
-    website=" XXX "
-    institute=" LMD/IPSL "
-    workdesc=" XXX " >}}    -->
