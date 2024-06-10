@@ -96,5 +96,3 @@ description: "Meet the Team"
       website="http://www.jaburney.com/"
       institute="University of California, San Diego"
       workdesc="jburney@ucsd.edu" >}}
-
-{{</ ProfileRegion >}}
