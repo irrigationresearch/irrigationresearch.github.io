@@ -13,5 +13,5 @@ featured_image:: '/images/cover/Stanford_square.png'
 <!--<h2> Advisor: Claudia Stephan </h2>-->
 <div>
 <a href="https://docs.google.com/spreadsheets/d/1Fvh1BZANNKsn8oVqqN2V4mQtKjpivU7fGqygNTTRAj8/edit#gid=1864294017">Link to the spreadsheet</a>
-
+{{< rawhtml >}}
 
