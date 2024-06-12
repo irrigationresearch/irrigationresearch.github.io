@@ -1,7 +1,7 @@
 ---
 title: "Announcements"
 date: 2024-02-01
-featured: true
+featured: false
 draft: false
 weight: 1
 location: "XXX"
