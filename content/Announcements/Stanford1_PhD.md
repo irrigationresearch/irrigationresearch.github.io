@@ -4,7 +4,7 @@ date: 2024-02-01
 featured: true
 draft: false
 weight: 1
-location: "Globe"
+location: "bottom"
 featured_image: "/images/cover/Stanford_square.png"
 ---
 {{< rawhtml >}}
