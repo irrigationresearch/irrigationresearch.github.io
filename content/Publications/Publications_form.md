@@ -9,7 +9,7 @@ location: "Globe"
 {{< rawhtml >}}
 <div>
 <p> If you would like to make an announcement (e.g. event, job or funding opportunity) relevant to the role of Irrigation in the Earth system, please submit the form below with all the necessary information.
-  <p>  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc2bUqqXhLpvOTz_LVhPUY2cP_C9GSvPkbmIuOowUN8gmaybA/viewform?embedded=true" width="640" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+  <p>  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc2bUqqXhLpvOTz_LVhPUY2cP_C9GSvPkbmIuOowUN8gmaybA/viewform?embedded=true" width="500" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </p>
 </div>
 {{< /rawhtml >}}
