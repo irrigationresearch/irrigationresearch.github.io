@@ -1,10 +1,11 @@
 ---
 title: "Resources"
-featured_image: "/images/gravity_waves_big.jpg"
-description: "Irrigation research resources and links"
-featured_image:: 'IES_data01.png'
+date: 2024-06-10
+featured: true
+draft: false
+weight: 1
+location: "Globe"
 ---
-
 # Datasets
 
 [Link](https://docs.google.com/spreadsheets/d/1bJyzj-Ec3FW4xQ1dvBbIraTj4QYaveaYfjnO1n5PfEo/edit#gid=0)
