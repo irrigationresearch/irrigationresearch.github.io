@@ -51,14 +51,9 @@ googleAnalytics = "G-76NXT956MJ"
       weight = 4
 
   [[menu.main]]
-      name = "Blog"
-      url = "/blog/"
-      weight = 5
-
-  [[menu.main]]
       name = "Resources"
       url = "/resources/"
-      weight = 6
+      weight = 5
     
 
   #[[menu.footer]]
