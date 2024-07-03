@@ -1,5 +1,5 @@
 ---
-title: "Publications form"
+title: "Submit a publication"
 date: 2024-06-10
 featured: true
 draft: false
