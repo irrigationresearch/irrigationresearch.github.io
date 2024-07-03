@@ -1,10 +1,12 @@
 ---
-title: "Resources"
+title: "Resources "
+date: 2024-01-08
+featured: true
+draft: false
+weight: 1
+location: "Globe"
 featured_image: "/images/gravity_waves_big.jpg"
-description: "Irrigation research resources and links"
-featured_image:: 'IES_data01.png'
 ---
-
 {{< rawhtml >}}
 <div>
 
@@ -13,5 +15,6 @@ featured_image:: 'IES_data01.png'
 </p>
 
 {{< /rawhtml >}}
+<!--more-->
 
 
