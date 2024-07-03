@@ -1,12 +1,14 @@
 ---
 title: "Resources"
 date: 2024-01-08
+description: "Irrigation research resources and links"
 featured: true
 draft: false
 weight: 1
 location: "Globe"
-featured_image: '/images/cover/Stanford_square.png'
+featured_image:: 'IES_data01.png'
 ---
+
 {{< rawhtml >}}
 <div>
 <p> Here is a database of resources.
