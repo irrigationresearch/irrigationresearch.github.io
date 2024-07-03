@@ -1,4 +1,3 @@
-
 ---
 title: "Resources"
 featured_image: "/images/gravity_waves_big.jpg"
