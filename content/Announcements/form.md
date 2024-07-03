@@ -3,6 +3,8 @@ title: "Announcements form"
 date: 2024-06-10
 featured: true
 draft: false
+type: page
+menu: main
 weight: 1
 location: "Globe"
 ---
@@ -15,3 +17,4 @@ location: "Globe"
 </div>
 {{< /rawhtml >}}
 <!--more-->
+
