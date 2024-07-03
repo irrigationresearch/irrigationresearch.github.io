@@ -7,8 +7,6 @@ weight: 1
 location: "Globe"
 featured_image: '/images/cover/Stanford_square.png'
 ---
-{{< /rawhtml >}}
-<!--more-->
 {{< rawhtml >}}
 <div>
 <p> Here is a database of resources.
