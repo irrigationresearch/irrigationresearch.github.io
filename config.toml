@@ -35,10 +35,10 @@ googleAnalytics = "G-76NXT956MJ"
  #    url = "/team/"
  #     weight = 2
 
-  [[menu.main]]
-      name = "Announcements" #previously jobs
-      url = "/announcements/"
-      weight = 3
+# [[menu.main]]
+#      name = "Announcements" #previously jobs
+#      url = "/announcements/"
+#      weight = 3
 
 #  [[menu.main]]
 #      name = "Background"
