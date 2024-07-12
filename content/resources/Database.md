@@ -9,7 +9,7 @@ featured_image: "/images/gravity_waves_big.jpg"
 ---
 {{< rawhtml >}}
 <div>
-<p> Here is a database of resources
+<p> This page hosts resources for the IES community, including observational datasets, model outputs, model inputs, and other useful information and references (see tabs at bottom of spreadsheet).
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1LzxUNodZkK7vz1rFpUS7xN6gSGctIcWiICuOn7nPP6F_edDqUB0Hl3sGycMBLSrgobBkz4HNVt5g/pubhtml?widget=true&amp;headers=true" width="100%" height="800"></iframe>
 </p>
 {{< /rawhtml >}}
