@@ -15,7 +15,7 @@ featured_image: '/images/gravity_waves_big.jpg'
             </td>
             <td style="padding:10px">
                 <a class="paper" href="https://www.nature.com/articles/s43017-023-00438-5">Irrigation in the Earth System</a><br>
-                Sonal McDermid et al.<br><br>
+                Sonal McDermid et al. 2023.<br><br>
             </td>
         </tr>
         <tr>
