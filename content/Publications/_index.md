@@ -7,21 +7,14 @@ featured_image: '/images/gravity_waves_big.jpg'
 {{< rawhtml >}}
 <div>
 <p> You’re free to send new publications to the listserv, or if you’d like to feature them here in our running bibliography, please use this <a href="https://docs.google.com/forms/d/e/1FAIpQLSc2bUqqXhLpvOTz_LVhPUY2cP_C9GSvPkbmIuOowUN8gmaybA/viewform?usp=sf_link">form</a>.
-
-My full list of papers is <a href="https://scholar.google.com/citations?user=LIjnUGgAAAAJ&hl=en">here</a>.
 </p>
 <table>
 
-
-  <tr><td style="padding:10px">
-      
-      <a href="https://arxiv.org/pdf/2309.14396.pdf"><img height="75px" style="min-width:150px" src="https://avatar.vercel.sh/Guess and Sketch: Language Model Guided Transpilation"></a>
-      
 </td><td style="padding:10px">
-<a class="paper" href="https://arxiv.org/pdf/2309.14396.pdf">
-Guess and Sketch: Language Model Guided Transpilation
+<a class="paper" href="https://doi.org/10.1038/s43017-023-00438-5">
+Irrigation in the Earth System
 </a><br>
-Celine Lee, Abdulrahman Mahmoud, Michal Kurek, Simone Campanoni, David Brooks, Stephen Chong, Gu-Yeon Wei, Alexander M. Rush.<br>
+Sonali McDermid et al.<br>
 Preprint <br>
 
 <br>
@@ -46,5 +39,6 @@ Preprint <br>
 </td></tr>
 
 </p>
+
 {{< /rawhtml >}}
 <!--more-->
