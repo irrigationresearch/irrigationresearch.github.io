@@ -28,14 +28,13 @@ Sonal McDermid et al.<br>
 
   <tr><td style="padding:10px">
       
-      <a href="https://arxiv.org/pdf/2310.16944.pdf"><img height="75px" style="min-width:150px" src="https://avatar.vercel.sh/Zephyr: Direct Distillation of LM Alignment"></a>
+      <a href="https://doi.org/10.1175/EI-D-23-0006.1"><img height="75px" style="min-width:150px" src="https://avatar.vercel.sh/Zephyr: Direct Distillation of LM Alignment"></a>
       
 </td><td style="padding:10px">
-<a class="paper" href="https://arxiv.org/pdf/2310.16944.pdf">
+<a class="paper" href="https://doi.org/10.1175/EI-D-23-0006.1">
 Zephyr: Direct Distillation of LM Alignment
 </a><br>
-Lewis Tunstall, Edward Beeching, Nathan Lambert, Nazneen Rajani, Kashif Rasul, Younes Belkada, Shengyi Huang, Leandro von Werra, Clémentine Fourrier, Nathan Habib, Nathan Sarrazin, Omar Sanseviero, Alexander M. Rush, Thomas Wolf.<br>
-Preprint <br>
+**Felicia Chiang***, Benjamin I. Cook, and Sonali McDermid.<br>
 
 <br>
 
