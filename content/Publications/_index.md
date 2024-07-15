@@ -19,12 +19,10 @@ featured_image: '/images/gravity_waves_big.jpg'
 Irrigation in the Earth System
 </a><br>
 Sonal McDermid et al.<br>
-Preprint <br>
 
 <br>
 
 </td></tr>
-
 
 
   <tr><td style="padding:10px">
