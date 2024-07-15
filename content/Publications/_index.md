@@ -11,7 +11,7 @@ featured_image: '/images/gravity_waves_big.jpg'
     <table>
         <tr>
             <td style="padding:10px">
-                <a href="https://www.nature.com/articles/s43017-023-00438-5"><img height="75px" style="min-width:150px" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Nature_journal_logo.svg" alt="Nature Journal Logo"></a>
+                <a href="https://www.nature.com/articles/s43017-023-00438-5"><img height="25px" style="min-width:50px" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Nature_journal_logo.svg" alt="Nature Journal Logo"></a>
             </td>
             <td style="padding:10px">
                 <a class="paper" href="https://www.nature.com/articles/s43017-023-00438-5">Irrigation in the Earth System</a><br>
@@ -20,7 +20,7 @@ featured_image: '/images/gravity_waves_big.jpg'
         </tr>
         <tr>
             <td style="padding:10px">
-                <a href="https://doi.org/10.1175/EI-D-23-0006.1"><img height="75px" style="min-width:150px" src="https://avatar.vercel.sh/Zephyr" alt="Zephyr Logo"></a>
+                <a href="https://doi.org/10.1175/EI-D-23-0006.1"><img height="25px" style="min-width:50px" src="https://avatar.vercel.sh/Zephyr" alt="Zephyr Logo"></a>
             </td>
             <td style="padding:10px">
                 <a class="paper" href="https://doi.org/10.1175/EI-D-23-0006.1">Zephyr: Direct Distillation of LM Alignment</a><br>
