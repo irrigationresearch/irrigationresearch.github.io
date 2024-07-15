@@ -9,8 +9,11 @@ featured_image: '/images/gravity_waves_big.jpg'
 
 <style>
     .paper-info {
-        text-align: center; /* Center-align the content */
-        padding: 10px; /* Add padding for spacing */
+        text-align: left; /* Align text to the left */
+        padding: 15px; /* Add more padding for spacing */
+    }
+    .paper-info p {
+        margin: 0; /* Remove default margins */
     }
 </style>
 
