@@ -10,11 +10,15 @@ featured_image: '/images/gravity_waves_big.jpg'
 </p>
 <table>
 
+  <tr><td style="padding:10px">
+      
+      <a href="https://www.nature.com/articles/s43017-023-00438-5"><img height="75px" style="min-width:150px" src="=https://upload.wikimedia.org/wikipedia/commons/d/db/Nature_journal_logo.svg: Direct Distillation of LM Alignment"></a>
+      
 </td><td style="padding:10px">
-<a class="paper" href="https://doi.org/10.1038/s43017-023-00438-5">
+<a class="paper" href="https://www.nature.com/articles/s43017-023-00438-5">
 Irrigation in the Earth System
 </a><br>
-Sonali McDermid et al.<br>
+Sonal McDermid et al.<br>
 Preprint <br>
 
 <br>
