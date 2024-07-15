@@ -11,10 +11,10 @@ featured_image: '/images/gravity_waves_big.jpg'
     <p>You’re free to send new publications to the listserv, or if you’d like to feature them here in our running bibliography, please use this <a href="https://docs.google.com/forms/d/e/1FAIpQLSc2bUqqXhLpvOTz_LVhPUY2cP_C9GSvPkbmIuOowUN8gmaybA/viewform?usp=sf_link">form</a>.</p>
     <table>
         <tr>
-            <td style="padding:10px">
+            <td style="padding:50px">
                 <a href="https://www.nature.com/articles/s43017-023-00438-5"><img height="25px" style="min-width:50px" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Nature_journal_logo.svg" alt="Nature Journal Logo"></a>
             </td>
-            <td style="padding:50px">
+            <td style="padding:10px">
                 <a class="paper" href="https://www.nature.com/articles/s43017-023-00438-5">Irrigation in the Earth System</a><br>
                 Sonal McDermid et al., 2023.<br><br>
             </td>
