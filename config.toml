@@ -61,6 +61,11 @@ googleAnalytics = "G-76NXT956MJ"
   #  url = "/contact/"
   #    weight = 2
 
+  [[menu.footer]]
+  name = "irrigation"
+  weight = 2
+
+
 [[params.ananke_socials]]
 name = "twitter"
 url = "https://twitter.com/PokhrelYadu"
