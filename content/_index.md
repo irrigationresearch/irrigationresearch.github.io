@@ -12,7 +12,7 @@ This website is host to the community of researchers studying the role of irriga
 
 On these pages you can find and contribute the latest irrigation-related publications, opportunities, datasets, and other key resources. Please also sign up for our listserv for community sharing and periodic updates.
 
-#### How can I join the IES community listserv?
+### How can I join the IES community listserv?
 [Click here](https://groups.google.com/g/irrigation-research) to sign up for our community listserv, on which you can post relevant announcements, papers, conferences, job opportunities, etc. We encourage you to use it. Subscribers can join in the discussion and reply to existing discussion threads, post new messages to share news or collaborate on projects, announce conferences, arrange meetings, advertise job opportunities and workshops or just to keep in touch with your colleagues specific to this group. 
 
 We ask that you remain respectful and professional in all posts to this community, and to post on matters relevant to irrigation research. Inappropriate mailings and conduct will result in removal from the listserv.
