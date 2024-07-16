@@ -10,7 +10,7 @@ menu: main
 {{< rawhtml >}}
 
 <div>
-    <p style="font-size: 16px;">You’re free to send new publications to the listserv, or if you’d like to feature them here in our running bibliography, please use this <a href="https://docs.google.com/forms/d/e/1FAIpQLSc2bUqqXhLpvOTz_LVhPUY2cP_C9GSvPkbmIuOowUN8gmaybA/viewform?usp=sf_link">form</a>.</p>
+    <p>You’re free to send new publications to the listserv, or if you’d like to feature them here in our running bibliography, please use this <a href="https://docs.google.com/forms/d/e/1FAIpQLSc2bUqqXhLpvOTz_LVhPUY2cP_C9GSvPkbmIuOowUN8gmaybA/viewform?usp=sf_link">form</a>.</p>
     <table>
         <tr>
             <td style="padding:10px">
