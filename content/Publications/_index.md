@@ -3,6 +3,8 @@ title: "Publications"
 date: 2021-03-01T12:00:00-05:00
 description: "Shared Research"
 featured_image: '/images/gravity_waves_big.jpg'
+type: page
+menu: main
 ---
 
 {{< rawhtml >}}
