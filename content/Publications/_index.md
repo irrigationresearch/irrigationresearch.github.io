@@ -20,14 +20,6 @@ menu: main
                 <a class="paper" href="https://www.nature.com/articles/s44221-024-00206-9">Half of twenty-first century global irrigation expansion has been in water-stressed regions</a><br>
                 Piyush Mehta et al., March 2024.<br><br>
             </td>
-        <tr>
-            <td style="padding:10px">
-                <a href="https://www.nature.com/articles/s43017-023-00438-5"><img height="25px" style="min-width:50px" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Nature_journal_logo.svg" alt="Nature Journal Logo"></a>
-            </td>
-            <td style="padding:10px">
-                <a class="paper" href="https://www.nature.com/articles/s43017-023-00438-5">Irrigation in the Earth System</a><br>
-                Sonali McDermid et al., June 2023.<br><br>
-            </td>
         </tr>
         <tr>
             <td style="padding:10px">
@@ -35,7 +27,16 @@ menu: main
             </td>
             <td style="padding:10px">
                 <a class="paper" href="https://doi.org/10.1175/EI-D-23-0006.1">Diverging Global Dry and Humid Heat Responses to Modern Irrigation</a><br>
-                Felicia Chiang, Benjamin I. Cook, and Sonali McDermid, 2023.<br><br>
+                Felicia Chiang, Benjamin I. Cook, and Sonali McDermid, September 2023.<br><br>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding:10px">
+                <a href="https://www.nature.com/articles/s43017-023-00438-5"><img height="25px" style="min-width:50px" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Nature_journal_logo.svg" alt="Nature Journal Logo"></a>
+            </td>
+            <td style="padding:10px">
+                <a class="paper" href="https://www.nature.com/articles/s43017-023-00438-5">Irrigation in the Earth System</a><br>
+                Sonali McDermid et al., June 2023.<br><br>
             </td>
         </tr>
     </table>
