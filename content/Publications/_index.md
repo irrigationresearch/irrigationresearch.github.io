@@ -27,7 +27,7 @@ menu: main
             </td>
             <td style="padding:10px">
                 <a class="paper" href="https://doi.org/10.1175/EI-D-23-0006.1">Diverging Global Dry and Humid Heat Responses to Modern Irrigation</a><br>
-                Felicia Chiang, Benjamin I. Cook, and Sonali McDermid, September 2023.<br><br>
+                Felicia Chiang, Benjamin I. Cook, Sonali McDermid, September 2023.<br><br>
             </td>
         </tr>
         <tr>
@@ -46,6 +46,15 @@ menu: main
             <td style="padding:10px">
                 <a class="paper" href="https://www.nature.com/articles/s43017-023-00438-5">Irrigation in the Earth System</a><br>
                 Sonali McDermid et al., June 2023.<br><br>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding:10px">
+                <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022WR034142"><img height="25px" style="min-width:50px" src="https://warnercnr.colostate.edu/wp-content/uploads/sites/2/2022/06/AGU-logo.png" alt="AGU Logo"></a>
+            </td>
+            <td style="padding:10px">
+                <a class="paper" href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022WR034142">Irrigation-Induced Crop Growth Enhances Irrigation Cooling Effect Over the North China Plain by Increasing Transpiration</a><br>
+                Guoshuai Liu, Weiguang Wang, March 2023.<br><br>
             </td>
         </tr>
     </table>
