@@ -26,7 +26,7 @@ menu: main
             </td>
             <td style="padding:10px">
                 <a class="paper" href="https://www.nature.com/articles/s43017-023-00438-5">Irrigation in the Earth System</a><br>
-                Sonali McDermid et al., 2023.<br><br>
+                Sonali McDermid et al., June 2023.<br><br>
             </td>
         </tr>
         <tr>
