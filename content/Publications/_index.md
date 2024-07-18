@@ -14,6 +14,14 @@ menu: main
     <table>
         <tr>
             <td style="padding:10px">
+                <a href="https://www.nature.com/articles/s44221-024-00206-9"><img height="25px" style="min-width:50px" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Nature_journal_logo.svg" alt="Nature Journal Logo"></a>
+            </td>
+            <td style="padding:10px">
+                <a class="paper" href="https://www.nature.com/articles/s44221-024-00206-9">Half of twenty-first century global irrigation expansion has been in water-stressed regions</a><br>
+                Piyush Mehta et al., March 2024.<br><br>
+            </td>
+        <tr>
+            <td style="padding:10px">
                 <a href="https://www.nature.com/articles/s43017-023-00438-5"><img height="25px" style="min-width:50px" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Nature_journal_logo.svg" alt="Nature Journal Logo"></a>
             </td>
             <td style="padding:10px">
