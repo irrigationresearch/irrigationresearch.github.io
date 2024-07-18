@@ -23,6 +23,15 @@ menu: main
         </tr>
         <tr>
             <td style="padding:10px">
+                <a href="https://link.springer.com/article/10.1007/s10584-023-03629-7#change-history"><img height="45px" style="min-width:75px" src="https://www.ametsoc.org/themes/ametsoc-new/images/AMSlogoFull-web.png" alt="AMS Logo"></a>
+            </td>
+            <td style="padding:10px">
+                <a class="paper" href="https://link.springer.com/article/10.1007/s10584-023-03629-7#change-history">Climate-induced shifts in irrigation water demand and supply during sensitive crop growth phases in South Asia</a><br>
+                Qurat-ul-Ain Ahmad et al., October 2023.<br><br>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding:10px">
                 <a href="https://doi.org/10.1175/EI-D-23-0006.1"><img height="45px" style="min-width:75px" src="https://www.ametsoc.org/themes/ametsoc-new/images/AMSlogoFull-web.png" alt="AMS Logo"></a>
             </td>
             <td style="padding:10px">
