@@ -59,7 +59,7 @@ menu: main
         </tr>
         <tr>
             <td style="padding:10px">
-                <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022WR034142"><img height="25px" style="min-width:30px" src="https://warnercnr.colostate.edu/wp-content/uploads/sites/2/2022/06/AGU-logo.png" alt="AGU Logo"></a>
+                <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022WR034142"><img height="25px" style="min-width:10px" src="https://warnercnr.colostate.edu/wp-content/uploads/sites/2/2022/06/AGU-logo.png" alt="AGU Logo"></a>
             </td>
             <td style="padding:10px">
                 <a class="paper" href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022WR034142">Irrigation-Induced Crop Growth Enhances Irrigation Cooling Effect Over the North China Plain by Increasing Transpiration</a><br>
