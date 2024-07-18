@@ -32,6 +32,15 @@ menu: main
         </tr>
         <tr>
             <td style="padding:10px">
+                <a href="https://www.nature.com/articles/s43016-023-00821-x"><img height="25px" style="min-width:50px" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Nature_journal_logo.svg" alt="Nature Journal Logo"></a>
+            </td>
+            <td style="padding:10px">
+                <a class="paper" href="https://www.nature.com/articles/s43016-023-00821-x">Sustainable Irrigation and Climate Feedbacks</a><br>
+                Yang et al., August 2023.<br><br>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding:10px">
                 <a href="https://www.nature.com/articles/s43017-023-00438-5"><img height="25px" style="min-width:50px" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Nature_journal_logo.svg" alt="Nature Journal Logo"></a>
             </td>
             <td style="padding:10px">
