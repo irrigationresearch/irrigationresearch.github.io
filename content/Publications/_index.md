@@ -66,6 +66,15 @@ menu: main
                 Guoshuai Liu, Weiguang Wang, March 2023.<br><br>
             </td>
         </tr>
+        <tr>
+            <td style="padding:10px">
+                <a href="https://www.nature.com/articles/s41467-019-14075-4"><img height="25px" style="min-width:50px" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Nature_journal_logo.svg" alt="Nature Journal Logo"></a>
+            </td>
+            <td style="padding:10px">
+                <a class="paper" href="https://www.nature.com/articles/s41467-019-14075-4">Warming of hot extremes alleviated by expanding irrigation</a><br>
+                Thiery et al., January 2020.<br><br>
+            </td>
+        </tr>
     </table>
 </div>
 {{< /rawhtml >}}
