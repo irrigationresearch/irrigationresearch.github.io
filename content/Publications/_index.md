@@ -66,6 +66,15 @@ menu: main
                 Guoshuai Liu, Weiguang Wang, March 2023.<br><br>
             </td>
         </tr>
+         <tr>
+            <td style="padding:10px">
+                <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022MS003074"><img height="25px" style="min-width:50px" src="https://warnercnr.colostate.edu/wp-content/uploads/sites/2/2022/06/AGU-logo.png" alt="AGU Logo"></a>
+            </td>
+            <td style="padding:10px">
+                <a class="paper" href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022MS003074">Implementation and Evaluation of Irrigation Techniques in the Community Land Model</a><br>
+                Yao et al., November 2022.<br><br>
+            </td>
+        </tr>
         <tr>
             <td style="padding:10px">
                 <a href="https://www.nature.com/articles/s41467-019-14075-4"><img height="25px" style="min-width:50px" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Nature_journal_logo.svg" alt="Nature Journal Logo"></a>
@@ -73,6 +82,15 @@ menu: main
             <td style="padding:10px">
                 <a class="paper" href="https://www.nature.com/articles/s41467-019-14075-4">Warming of hot extremes alleviated by expanding irrigation</a><br>
                 Thiery et al., January 2020.<br><br>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding:10px">
+                <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016jd025740"><img height="25px" style="min-width:50px" src="https://warnercnr.colostate.edu/wp-content/uploads/sites/2/2022/06/AGU-logo.png" alt="AGU Logo"></a>
+            </td>
+            <td style="padding:10px">
+                <a class="paper" href="https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016jd025740">Present-day irrigation mitigates heat extremes</a><br>
+                Thiery et al., January 2017.<br><br>
             </td>
         </tr>
     </table>
