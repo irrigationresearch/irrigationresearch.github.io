@@ -14,7 +14,7 @@ menu: main
     <table>
         <tr>
             <td style="padding:10px">
-                <a href="https://gmd.copernicus.org/articles/17/2141/2024/"><img height="25px" style="min-width:50px" src="EGU_logo.png" alt="EGU Logo"></a>
+                <a href="https://gmd.copernicus.org/articles/17/2141/2024/"><img height="35px" style="min-width:50px" src="EGU_logo.png" alt="EGU Logo"></a>
             </td>
             <td style="padding:10px">
                 <a class="paper" href="https://gmd.copernicus.org/articles/17/2141/2024/">Validation of a new global irrigation scheme in the land surface model ORCHIDEE v2.2</a><br>
