@@ -14,6 +14,15 @@ menu: main
     <table>
         <tr>
             <td style="padding:10px">
+                <a href="https://gmd.copernicus.org/articles/17/2141/2024/"><img height="25px" style="min-width:50px" src="https://en.wikipedia.org/wiki/European_Geosciences_Union#/media/File:EGU_plain_blue_logo.svg" alt="EGU Logo"></a>
+            </td>
+            <td style="padding:10px">
+                <a class="paper" href="https://gmd.copernicus.org/articles/17/2141/2024/">Validation of a new global irrigation scheme in the land surface model ORCHIDEE v2.2</a><br>
+                Arboleda-Obando, P. F. , Ducharne, A., Yin, Z., and Ciais, P., March 2024.<br><br>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding:10px">
                 <a href="https://www.nature.com/articles/s44221-024-00206-9"><img height="25px" style="min-width:50px" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Nature_journal_logo.svg" alt="Nature Journal Logo"></a>
             </td>
             <td style="padding:10px">
